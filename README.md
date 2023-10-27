@@ -16,24 +16,24 @@
 
 ## Day 3 
 ----------------------------------
--seen Styled components usage for the first time
+- seen Styled components usage for the first time
 
 ## Day 4 
 ----------------------------------
--Busy Day
+- Busy Day
 
 ## Day 5 
 ----------------------------------
--Project 3 started coding
--coded just the landing page
+- Project 3 started coding
+- coded just the landing page
 
 ## Day 6
 ----------------------------------
--Managing state using useState hooks
--Using styled-components in react js
--toggle on buttons 
--props passing
--looping arrays using map
--many more concepts
--Project 3 completed 
+- Managing state using useState hooks
+- Using styled-components in react js
+- toggle on buttons 
+- props passing
+- looping arrays using map
+- many more concepts
+- Project 3 completed 
  
