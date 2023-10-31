@@ -14,19 +14,6 @@
 - Object Destructuring
 - Project 2 Complete
 
-## Day 3 
-----------------------------------
-- seen Styled components usage for the first time
-
-## Day 4 
-----------------------------------
-- Busy Day
-
-## Day 5 
-----------------------------------
-- Project 3 started coding
-- coded just the landing page
-
 ## Day 6
 ----------------------------------
 - Managing state using useState hooks
@@ -35,5 +22,14 @@
 - props passing
 - looping arrays using map
 - many more concepts
-- Project 3 completed 
- 
+- Project 3 completed
+
+## Day 10
+-----------------------------------
+- Fetched data from backend servers
+- Parsed the json data
+- Used UseEffect hook to load data before the UI is rendered.
+- Using useEffect(), can render UI infinite time, hence using dependency array i.e, [] as an argument in the function.  
+- Implemented Filter Functionality to filter through food
+- Implemented Search functionality to search the food item
+- Styled throgh styled-components
