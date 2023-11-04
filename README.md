@@ -6,14 +6,12 @@ All completion days will be there :)
 - React JS Components
 - File Structure
 - CSS in React JS
-- Project 1 complete
 
 ## Day 2 - Contact Us page
 ----------------------------------
 - Props
 - Modular CSS 
 - Object Destructuring
-- Project 2 Complete
 
 ## Day 6 - Dice Game
 ----------------------------------
@@ -22,8 +20,6 @@ All completion days will be there :)
 - toggle on buttons 
 - props passing
 - looping arrays using map
-- many more concepts
-- Project 3 completed
 
 ## Day 10 - Food Selector App
 -----------------------------------
