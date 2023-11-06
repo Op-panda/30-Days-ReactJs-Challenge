@@ -24,9 +24,9 @@ All completion days will be there :)
 ## Day 10 - Food Selector App
 -----------------------------------
 - Fetched data from backend servers
-- Parsed the json data
 - Used UseEffect hook to load data before the UI is rendered.
 - Using useEffect(), can render UI infinite time, hence using dependency array i.e, [] as an argument in the function.  
 - Implemented Filter Functionality to filter through food
 - Implemented Search functionality to search the food item
+- Implemented Loader and error handling in case of abdrupt errors
 - Styled throgh styled-components
