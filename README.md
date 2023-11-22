@@ -30,3 +30,12 @@ All completion days will be there :)
 - Implemented Search functionality to search the food item
 - Implemented Loader and error handling in case of abdrupt errors
 - Styled throgh styled-components
+
+## Day 26 - CRUD Contact APP
+------------------------------------
+- Hands on experience with Firebase.
+- Portal to create modals, in turn enhancing UI & UX.
+- Explore Formik library to create forms.
+- Integrated react-toastify for elegant and non-intrusive toast notifications, keeping users informed about their actions.
+- Discovered the yup package, to validate the form values stored in a single object.
+- Get to know to make custom hooks, in order to create reusable code.
